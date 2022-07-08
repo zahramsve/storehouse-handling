@@ -1,0 +1,3 @@
+|       product Name       |  ID  |   Price   | categories |
+|      Sony WH-1000XM5     | #0313|    220$   | Digital accessories, MultiMedia, Headphones|
+|    Simple Music player   | #0312|     30$   | Digital accessories, MultiMedia|

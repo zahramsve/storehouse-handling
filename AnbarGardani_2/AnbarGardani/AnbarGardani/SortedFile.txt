@@ -1,0 +1,2 @@
+|       product Name       |  ID  |   Price   | categories |
+|    Simple Music player   | #0312|     30&   | Digital accessories, MultiMedia|
